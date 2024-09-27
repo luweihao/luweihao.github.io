@@ -9,10 +9,10 @@ redirect_from:
 
 About me
 ------
-I am a Ph.D candidate at Department of Statistics and Data Science, Tsinghua University.
-I am extremely fortunate to be advised by Prof. [Qian Lin](https://sites.google.com/site/qianlincd/)'s lab. 
-Before that, I studied as an undergraduate at School of Mathematics and Statistics, Wuhan University. 
-I am broadly interested in large-dimensional spectral algorithms, minimax rates of noparametric regression problems, and sufficient dimension reduction.
+I am a Ph.D. candidate at the Department of Statistics and Data Science, Tsinghua University.
+I am extremely fortunate to be advised by Associate Professor [Qian Lin](https://sites.google.com/site/qianlincd/). 
+Before that, I completed my undergraduate studies at the School of Mathematics and Statistics, Wuhan University. 
+My research interests include large-dimensional spectral algorithms, minimax rates of nonparametric regression problems, and sufficient dimension reduction.
 
 Publication
 ------
