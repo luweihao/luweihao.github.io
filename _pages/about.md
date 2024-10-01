@@ -24,7 +24,7 @@ Haobo Zhang, Yicheng Li, *Weihao Lu*, Qian Lin\\
 ICML 2023
 
 [The Phase Diagram of Kernel Interpolation in Large Dimensions](https://arxiv.org/abs/2404.12597)\\
-Haobo Zhang\*, *Weihao Lu\**, Qian Lin
+Haobo Zhang\*, *Weihao Lu\**, Qian Lin\\
 Biometrika, accepted, to appear.
 
 On the Saturation Effects of Spectral Algorithms in Large Dimensions\\
