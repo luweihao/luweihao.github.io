@@ -23,6 +23,10 @@ Publication
 Haobo Zhang, Yicheng Li, *Weihao Lu*, Qian Lin\\
 ICML 2023
 
+[The Phase Diagram of Kernel Interpolation in Large Dimensions](https://arxiv.org/abs/2404.12597)\\
+Haobo Zhang\*, *Weihao Lu\**, Qian Lin
+Biometrika, accepted, to appear.
+
 On the Saturation Effects of Spectral Algorithms in Large Dimensions\\
 *Weihao Lu*, Haobo Zhang, Yicheng Li, Qian Lin\\
 NeurIPS 2024
@@ -34,9 +38,6 @@ NeurIPS 2024
 
 [Optimal Rates of Kernel Ridge Regression under Source Condition in Large Dimensions](https://arxiv.org/abs/2401.01270)\\
 Haobo Zhang, Yicheng Li, *Weihao Lu*, Qian Lin
-
-[The Phase Diagram of Kernel Interpolation in Large Dimensions](https://arxiv.org/abs/2404.12597)\\
-Haobo Zhang\*, *Weihao Lu\**, Qian Lin
 
 [On the Pinsker Bound of Inner Product Kernel Regression in Large Dimensions](https://arxiv.org/abs/2409.00915)\\
 *Weihao Lu*, Jialin Ding, Haobo Zhang, Qian Lin
