@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-About me
+# About me
 ------
 I am a Ph.D. candidate at the Department of Statistics and Data Science, Tsinghua University.
 I am extremely fortunate to be advised by Associate Professor [Qian Lin](https://sites.google.com/site/qianlincd/). 
 Before that, I completed my undergraduate studies at the School of Mathematics and Statistics, Wuhan University. 
 My research interests include large-dimensional spectral algorithms, minimax rates of nonparametric regression problems, and sufficient dimension reduction.
 
-Publication
+# Publication
 ------
 
 **Published Papers**
@@ -31,7 +31,7 @@ On the Saturation Effects of Spectral Algorithms in Large Dimensions\\
 *Weihao Lu*, Haobo Zhang, Yicheng Li, Qian Lin\\
 NeurIPS 2024
 
-**Manuscripts under Review**
+**Pre-prints**
 
 [Optimal Rate of Kernel Regression in Large Dimensions](https://arxiv.org/abs/2309.04268)\\
 *Weihao Lu\**, Haobo Zhang\*, Yicheng Li, Manyun Xu, Qian Lin
@@ -44,3 +44,28 @@ Haobo Zhang, Yicheng Li, *Weihao Lu*, Qian Lin
 
 Bounds on the Reconstruction Error of Kernel PCA with Interpolation Spaces Norms\\
 Yang Zhou\*, *Weihao Lu\**, Qian Lin
+
+
+
+
+# Honors & Awards
+------
+
+- **Peking-Tsinghua Joint Statistics Colloquium Outstanding Poster Award**  
+  Date: May 25, 2023  
+  Organizer: Peking University
+
+- **First National Mathematics and Statistics Doctoral Academic Forum Second Prize for Academic Papers**  
+  Date: October 16-18, 2023  
+  Organizer: Liaoning University
+
+- **Seventh National Statistics Doctoral Academic Forum First Prize**  
+  Date: October 21, 2023  
+  Organizer: Guangzhou University
+
+- **Ninth National Graduate Statistics Forum Top Ten Papers Award**  
+  Date: November 18, 2023  
+  Organizer: Renmin University of China
+
+- **NeurIPS 2024 Scholar Award**  
+  Conference on Neural Information Processing Systems (NeurIPS), 2024
