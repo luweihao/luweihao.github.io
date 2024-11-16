@@ -27,7 +27,7 @@ ICML 2023
 Haobo Zhang\*, *Weihao Lu\**, Qian Lin\\
 Biometrika, accepted, to appear.
 
-On the Saturation Effects of Spectral Algorithms in Large Dimensions\\
+[On the Saturation Effects of Spectral Algorithms in Large Dimensions](https://openreview.net/forum?id=kJzecLYsRi)\\
 *Weihao Lu*, Haobo Zhang, Yicheng Li, Qian Lin\\
 NeurIPS 2024
 
