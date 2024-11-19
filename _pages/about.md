@@ -42,11 +42,6 @@ Haobo Zhang, Yicheng Li, *Weihao Lu*, Qian Lin
 [On the Pinsker Bound of Inner Product Kernel Regression in Large Dimensions](https://arxiv.org/abs/2409.00915)\\
 *Weihao Lu*, Jialin Ding, Haobo Zhang, Qian Lin
 
-Bounds on the Reconstruction Error of Kernel PCA with Interpolation Spaces Norms\\
-Yang Zhou\*, *Weihao Lu\**, Qian Lin
-
-
-
 
 # Honors & Awards
 ------
