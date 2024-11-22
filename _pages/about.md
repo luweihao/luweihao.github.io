@@ -11,8 +11,9 @@ redirect_from:
 ------
 I am a Ph.D. candidate at the Department of Statistics and Data Science, Tsinghua University.
 I am extremely fortunate to be advised by Associate Professor [Qian Lin](https://sites.google.com/site/qianlincd/). 
-Before that, I completed my undergraduate studies at the School of Mathematics and Statistics, Wuhan University. 
+Before that, I completed my undergraduate studies at the School of Mathematics and Statistics, at Wuhan University. 
 My research interests include large-dimensional spectral algorithms, minimax rates of nonparametric regression problems, and sufficient dimension reduction.
+
 
 # Publication
 ------
@@ -23,7 +24,7 @@ My research interests include large-dimensional spectral algorithms, minimax rat
 Haobo Zhang, Yicheng Li, *Weihao Lu*, Qian Lin\\
 ICML 2023
 
-[The Phase Diagram of Kernel Interpolation in Large Dimensions](https://arxiv.org/abs/2404.12597)\\
+[The Phase Diagram of Kernel Interpolation in Large Dimensions](https://doi.org/10.1093/biomet/asae057)\\
 Haobo Zhang\*, *Weihao Lu\**, Qian Lin\\
 Biometrika, accepted, to appear.
 
