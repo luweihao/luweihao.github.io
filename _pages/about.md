@@ -9,10 +9,10 @@ redirect_from:
 
 # About me
 ------
-I am a Ph.D. candidate at the Department of Statistics and Data Science, Tsinghua University.
-I am extremely fortunate to be advised by Associate Professor [Qian Lin](https://sites.google.com/site/qianlincd/). 
-Before that, I completed my undergraduate studies at the School of Mathematics and Statistics, at Wuhan University. 
+I am a Ph.D. graduate from the Department of Statistics and Data Science, Tsinghua University. I was extremely fortunate to be advised by Associate Professor [Qian Lin](https://sites.google.com/site/qianlincd/). Before that, I completed my undergraduate studies at the School of Mathematics and Statistics, Wuhan University.
+
 My research interests include large-dimensional spectral algorithms, minimax rates of nonparametric regression problems, and sufficient dimension reduction.
+
 
 
 # Publication
@@ -40,8 +40,9 @@ NeurIPS 2024
 [Optimal Rates of Kernel Ridge Regression under Source Condition in Large Dimensions](https://arxiv.org/abs/2401.01270)\\
 Haobo Zhang, Yicheng Li, *Weihao Lu*, Qian Lin
 
-[On the Pinsker Bound of Inner Product Kernel Regression in Large Dimensions](https://arxiv.org/abs/2409.00915)\\
-*Weihao Lu*, Jialin Ding, Haobo Zhang, Qian Lin
+[On the Pinsker Bound of Inner Product Kernel Regression in Large Dimensions](https://arxiv.org/abs/2409.00915)  
+*Weihao Lu*, Jialin Ding, Haobo Zhang, Qian Lin  
+Undergoing major revisions
 
 
 # Honors & Awards
