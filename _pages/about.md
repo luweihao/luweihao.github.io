@@ -20,28 +20,29 @@ My research interests include large-dimensional spectral algorithms, minimax rat
 
 **Published Papers**
 
-[On the Optimality of Misspecified Kernel Ridge Regression](https://proceedings.mlr.press/v202/zhang23x.html)\\
-Haobo Zhang, Yicheng Li, *Weihao Lu*, Qian Lin\\
+[On the Optimality of Misspecified Kernel Ridge Regression](https://proceedings.mlr.press/v202/zhang23x.html)
+Haobo Zhang, Yicheng Li, *Weihao Lu*, Qian Lin
 ICML 2023
 
-[The Phase Diagram of Kernel Interpolation in Large Dimensions](https://doi.org/10.1093/biomet/asae057)\\
-Haobo Zhang\*, *Weihao Lu\**, Qian Lin\\
-Biometrika, accepted, to appear.
+[The Phase Diagram of Kernel Interpolation in Large Dimensions](https://doi.org/10.1093/biomet/asae057)
+Haobo Zhang\*, *Weihao Lu\**, Qian Lin
+Biometrika
 
-[On the Saturation Effects of Spectral Algorithms in Large Dimensions](https://openreview.net/forum?id=kJzecLYsRi)\\
-*Weihao Lu*, Haobo Zhang, Yicheng Li, Qian Lin\\
+[On the Saturation Effects of Spectral Algorithms in Large Dimensions](https://openreview.net/forum?id=kJzecLYsRi)
+*Weihao Lu*, Haobo Zhang, Yicheng Li, Qian Lin
 NeurIPS 2024
 
 **Pre-prints**
 
-[Optimal Rate of Kernel Regression in Large Dimensions](https://arxiv.org/abs/2309.04268)\\
+[Optimal Rate of Kernel Regression in Large Dimensions](https://arxiv.org/abs/2309.04268)
 *Weihao Lu\**, Haobo Zhang\*, Yicheng Li, Manyun Xu, Qian Lin
 
-[Optimal Rates of Kernel Ridge Regression under Source Condition in Large Dimensions](https://arxiv.org/abs/2401.01270)\\
+[Optimal Rates of Kernel Ridge Regression under Source Condition in Large Dimensions](https://arxiv.org/abs/2401.01270)
 Haobo Zhang, Yicheng Li, *Weihao Lu*, Qian Lin
+Undergoing minor revisions
 
-[On the Pinsker Bound of Inner Product Kernel Regression in Large Dimensions](https://arxiv.org/abs/2409.00915)  
-*Weihao Lu*, Jialin Ding, Haobo Zhang, Qian Lin  
+[On the Pinsker Bound of Inner Product Kernel Regression in Large Dimensions](https://arxiv.org/abs/2409.00915)
+*Weihao Lu*, Jialin Ding, Haobo Zhang, Qian Lin
 Undergoing major revisions
 
 
