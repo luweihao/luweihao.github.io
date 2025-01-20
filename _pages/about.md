@@ -35,7 +35,7 @@ NeurIPS 2024
 **Pre-prints**
 
 [Optimal Rate of Kernel Regression in Large Dimensions](https://arxiv.org/abs/2309.04268)\\
-*Weihao Lu\**, Haobo Zhang\*, Yicheng Li, Manyun Xu, Qian Lin\\
+*Weihao Lu\**, Haobo Zhang\*, Yicheng Li, Manyun Xu, Qian Lin
 
 [Optimal Rates of Kernel Ridge Regression under Source Condition in Large Dimensions](https://arxiv.org/abs/2401.01270)\\
 Haobo Zhang, Yicheng Li, *Weihao Lu*, Qian Lin\\
