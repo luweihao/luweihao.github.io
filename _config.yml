@@ -24,11 +24,12 @@ author:
   avatar           : "profile.jpg"
   name             : "Weihao Lu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D, Department of Statistics and Data Science, Tsinghua"
-  location         : "Beijing"
-  # employer         : "Stanford University"
+  bio              : "Research Fellow, National University of Singapore"
+  location         : "Singapore"
+  # employer         : "National University of Singapore"
   uri              : # URL
-  email            : "luwh19@mails.tsinghua.edu.cn" 
+  email            : "weihaolu@nus.edu.sg"
+
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
