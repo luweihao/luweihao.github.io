@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download My CV](assets/cv.pdf)
+[Download My CV](/assets/cv.pdf)
