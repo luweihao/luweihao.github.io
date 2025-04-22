@@ -67,3 +67,6 @@ Undergoing major revisions
 
 - **NeurIPS 2024 Scholar Award**  
   Conference on Neural Information Processing Systems (NeurIPS), 2024
+
+- **AISTATS 2025 Best Reviewer Award**   
+  Artificial Intelligence and Statistics, 2025
