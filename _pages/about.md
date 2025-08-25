@@ -31,7 +31,7 @@ Biometrika
 *Weihao Lu*, Haobo Zhang, Yicheng Li, Qian Lin\\
 NeurIPS 2024
 
-[Optimal Rates of Kernel Ridge Regression under Source Condition in Large Dimensions](https://arxiv.org/abs/2401.01270)\\ 
+[Optimal Rates of Kernel Ridge Regression under Source Condition in Large Dimensions](https://arxiv.org/abs/2401.01270)\\
 Haobo Zhang, Yicheng Li, *Weihao Lu*, Qian Lin\\
 To appear in JMLR
 
