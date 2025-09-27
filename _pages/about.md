@@ -41,8 +41,7 @@ To appear in JMLR
 *Weihao Lu\**, Haobo Zhang\*, Yicheng Li, Manyun Xu, Qian Lin
 
 [On the Pinsker Bound of Inner Product Kernel Regression in Large Dimensions](https://arxiv.org/abs/2409.00915)\\
-*Weihao Lu*, Jialin Ding, Haobo Zhang, Qian Lin\\
-Undergoing major revisions
+*Weihao Lu*, Jialin Ding, Haobo Zhang, Qian Lin
 
 
 # Honors & Awards
