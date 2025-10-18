@@ -68,3 +68,6 @@ To appear in JMLR
 
 - **AISTATS 2025 Best Reviewer Award**   
   Artificial Intelligence and Statistics, 2025
+
+- **NeurIPS 2025 "Reviewer : Top Reviewer" Award**   
+  Conference on Neural Information Processing Systems (NeurIPS), 2025
