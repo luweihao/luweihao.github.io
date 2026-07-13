@@ -9,9 +9,10 @@ redirect_from:
 
 # About me
 ------
-I am a Research Fellow at the National University of Singapore, working with Professor [Yingcun Xia](https://blog.nus.edu.sg/homepage/research/). I received my Ph.D. from the Department of Statistics and Data Science, Tsinghua University, where I was extremely fortunate to be advised by Associate Professor [Qian Lin](https://sites.google.com/site/qianlincd/). Before that, I completed my undergraduate studies at the School of Mathematics and Statistics, Wuhan University.
+I am a Research Fellow at the National University of Singapore, working with Professor [Dongming Huang](https://blog.nus.edu.sg/stahd/). I received my Ph.D. from the Department of Statistics and Data Science, Tsinghua University, where I was extremely fortunate to be advised by Associate Professor [Qian Lin](https://sites.google.com/site/qianlincd/). Before that, I completed my undergraduate studies at the School of Mathematics and Statistics, Wuhan University.
 
-My research interests include large-dimensional spectral algorithms, minimax rates of nonparametric regression problems, and sufficient dimension reduction. 
+My research interests include large-dimensional spectral algorithms, minimax rates of nonparametric regression problems. 
+Recently, I am studying the asymptotic excess risk of mis-specified Gaussian Process Regression by modifying techniques from kernel ridge regression. 
 
 
 # Publication
@@ -33,9 +34,12 @@ NeurIPS 2024
 
 [Optimal Rates of Kernel Ridge Regression under Source Condition in Large Dimensions](https://arxiv.org/abs/2401.01270)\\
 Haobo Zhang, Yicheng Li, *Weihao Lu*, Qian Lin\\
-To appear in JMLR
+JMLR
 
 **Pre-prints**
+
+[Learning Curves and Benign Overfitting of Spectral Algorithms in Large Dimensions](https://arxiv.org/abs/2604.23212)\\
+*Weihao Lu*, Qian Lin, Yingcun Xia, Dongming Huang
 
 [Optimal Rate of Kernel Regression in Large Dimensions](https://arxiv.org/abs/2309.04268)\\
 *Weihao Lu\**, Haobo Zhang\*, Yicheng Li, Manyun Xu, Qian Lin
